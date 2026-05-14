@@ -63,7 +63,7 @@ Created as a learning + portfolio project focused on social features, clean UI a
 # Installation
 
 ## 1. Clone or download project
-
+Go to root/DB/portal.sql database insert.
 Place the project inside:
 
 ```txt
