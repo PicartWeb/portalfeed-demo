@@ -1,47 +1,70 @@
-# PortalFeed — PHP Social Media Platform
+# PortalFeed — PHP Social Community Platform
 
-A full-stack social media/community platform built with PHP, MySQL, HTML, CSS, JavaScript and Bootstrap.
+A modern full-stack social/community platform built with PHP, MySQL, Bootstrap and JavaScript.
 
-Created by Picart Web.
+Created as a learning + portfolio project focused on social features, clean UI and scalable community systems.
 
-## Features
+---
 
-- User registration and login
-- Password hashing with PHP `password_hash`
+# Preview
+
+![PortalFeed Preview](assets/screenshots/1.png)
+
+---
+
+# Features
+
+## Authentication
+- Register / login system
+- Secure password hashing
+- Session authentication
+- Role system
+
+## Social Features
+- Public feed/posts
+- Likes & comments
+- Follow / unfollow users
 - User profiles
-- Follow / unfollow system
-- Public social feed
-- Posts, likes and comments
-- Groups and group membership
-- Direct messages
 - Notifications
-- Admin/moderator roles
-- User bans/suspensions
-- Gigs/services section
-- Media upload structure
-- Clean demo seed data
 
-## Tech Stack
+## Community Features
+- Groups & communities
+- Join/leave groups
+- Group discussions
+
+## Messaging
+- Direct messaging system
+- Conversation threads
+
+## Admin System
+- Moderator/admin roles
+- Manage users
+- Manage posts
+- User suspension system
+
+## UI/UX
+- Responsive design
+- Mobile-friendly layout
+- Modern Bootstrap interface
+- Guest preview landing page
+
+---
+
+# Tech Stack
 
 - PHP
 - MySQL
-- PDO
-- HTML5
-- CSS3
+- Bootstrap 5
 - JavaScript
-- Bootstrap
+- PDO
 
-## Demo Login
+---
 
-Username: `admin`  
-Password: `Demo123!`
+# Installation
 
-You can also create a new account from the signup form.
+## 1. Clone or download project
 
-## Installation
+Place the project inside:
 
-1. Copy the project folder into:
-
-XAMPP:
 ```txt
 htdocs/
